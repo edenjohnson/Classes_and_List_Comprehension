@@ -1,6 +1,15 @@
 # Classes_and_List_Comprehension
-# coded in Python 3
-# file name: hw3_2.py
 
-File creates a Card object with suit and value, that is then put into a list to serve as input for the Deck object. 
-The Deck object shuffles the full deck of 52 cards and will deal them out when the deal method is called. 
+This program uses object oriented programming to create a deck of cards. The 
+program imports the random module to randomly shuffle the deck and deal out
+cards to the user. List comprehension is utilized in the creation of the deck.
+
+
+### Prerequisites/Assumptions
+
+Python 3+ must be installed on the system running the program. 
+
+## Author
+
+**Eden Johnson** 
+
