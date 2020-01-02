@@ -1,5 +1,4 @@
 ###############################################################################
-# hw3_2.py
 # Author: Eden Johnson
 # Last Modified: 10/18/19
 # Purpose: Write a object-oriented program that contains two classes, Deck and
